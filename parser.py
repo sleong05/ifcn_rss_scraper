@@ -12,6 +12,7 @@ feeds = [
     # { 'url': 'https://factchequeado.com/feed', 'country': 'US', 'organization': 'Factchequeado', 'hasContent': True },
     # { 'url': 'https://leadstories.com/atom.xml', 'country': 'US', 'organization': 'Lead Stories', 'hasContent': True },
     # { 'url': 'https://feeds.feedburner.com/PublicoRSS', 'country': 'Portugal', 'organization': 'PUBLICO', 'hasContent': False },
+    # { 'url': 'https://pressone.ph/feed/', 'country': 'Philippines', 'organization': 'PressOne.PH', 'hasContent': True },
 ]
 
 from bs4 import BeautifulSoup
