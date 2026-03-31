@@ -6,7 +6,7 @@ feeds = [
     # { 'url': 'https://www.factcheck.org/feed/', 'country': 'US', 'organization': 'FactCheck', 'hasContent': True },
     # { 'url': 'https://www.politifact.com/rss/factchecks/', 'country': 'US', 'organization': 'PolitiFact', 'hasContent': True },
     # { 'url': 'https://thedispatch.com/feed/', 'country': 'US', 'organization': 'The Dispatch', 'hasContent': False },
-    # { 'url': 'https://www.snopes.com/feed/', 'country': 'US', 'organization': 'Snopes', 'hasContent': False },
+    # { 'url': 'https://www.snopes.com/fact-check/feed/', 'country': 'US', 'organization': 'Snopes', 'hasContent': False },
     # { 'url': 'https://wisconsinwatch.org/feed/', 'country': 'US', 'organization': 'Wisconsin Watch', 'hasContent': True },
     # { 'url': 'https://checkyourfact.com/feed/', 'country': 'US', 'organization': 'Check Your Fact', 'hasContent': True },
     # { 'url': 'https://factchequeado.com/feed', 'country': 'US', 'organization': 'Factchequeado', 'hasContent': True },
